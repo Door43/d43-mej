@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mej:home|Door43 (mej)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mej|d43-mej repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mej/archive/master.zip|d43-mej.zip]]
+
+**Recent Changes**
+{{changes>ns = mej}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mej|Ethnologue data]]
+
